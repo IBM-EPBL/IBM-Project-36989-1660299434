@@ -1,0 +1,30 @@
+Project Objectives
+By the end of this project you will:
+* Gain knowledge of Watson IoT Platform.
+* Connecting IoT devices to the Watson IoT  platform and exchanging the sensor data.
+* Gain knowledge on IBM Cloudant DB
+* Explore Python client libraries of Watson IoT Platform.
+* Explore Python library for integrating OpenCV  for accessing the Live Camera Input
+* Scan the QR code in live streaming and retrieve the QR code details
+* Gain knowledge of web application development.
+* Gain knowledge of storing the data in Cloudant DB
+* Generating QR codes with the required data.
+Project Flow:
+* The parameters like hazardous gas levels, fire, humidity, and temperature data are published to the Watson IoT platform
+* The device will subscribe to the commands from the application and take decisions accordingly to switch on the rainwater sprinkler in case of emergencies
+* Sensor data is visualized in the Web Application
+* To accomplish this, we have to complete all the activities and tasks listed below:
+* Create and configure IBM Cloud Services
+* Create IBM Watson IoT Platform and Device
+* Create Node-RED service
+* Develop the Python Script 
+* Develop the Python Script
+* Develop a web Application using Node-RED Service.
+* Develop the Web application using Node-RED
+* Testing the Web UI by giving the required inputs
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Secur
